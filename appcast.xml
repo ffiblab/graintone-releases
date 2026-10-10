@@ -4,6 +4,15 @@
         <title>Graintone</title>
         <item>
             <title>0.9.0</title>
+            <pubDate>Sat, 10 Oct 2026 10:25:52 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-4.md</sparkle:releaseNotesLink>
+            <enclosure url="https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-4.dmg" length="19802501" type="application/octet-stream" sparkle:edSignature="W4JdLzwMPZ4axwyGuaJJawWIW+nPnOcfbly/Xjuv4Qxj5f+hvkoTLBIJVJ3QNlYfZQUYePbPnXH+k+9ej9vwBg=="/>
+        </item>
+        <item>
+            <title>0.9.0</title>
             <pubDate>Sat, 10 Oct 2026 08:34:41 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-2.md</sparkle:releaseNotesLink>
             <enclosure url="https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-2.dmg" length="19985271" type="application/octet-stream" sparkle:edSignature="HNoWzf8DFM6Sbbw6qM9TOdQ40g3TvfrjnEbImD5j0WPwSVhqriPTKt4EqKIo5oqtbQAsoeb2B+BZibyHIHsEDg=="/>
-        </item>
-        <item>
-            <title>0.9.0</title>
-            <pubDate>Sat, 10 Oct 2026 08:10:41 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-1.dmg" length="19982335" type="application/octet-stream" sparkle:edSignature="enTXziC4UH+Him5tVtr6CrqiEr+Ak+nrOlM7KoTcrulSRur52zfeBEq4EJ8PRIvzpJG3W0DKyJfOkhfksxAVBw=="/>
         </item>
     </channel>
 </rss>
