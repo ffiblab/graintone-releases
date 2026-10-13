@@ -4,6 +4,16 @@
         <title>Graintone</title>
         <item>
             <title>0.9.0</title>
+            <pubDate>Tue, 13 Oct 2026 15:03:04 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="en">https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-5.en.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="ko">https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-5.ko.md</sparkle:releaseNotesLink>
+            <enclosure url="https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-5.dmg" length="19901973" type="application/octet-stream" sparkle:edSignature="Hx2oewTMj1sv2r4KduUWnkp93Xw5wJ4P8w38w8EmlNg2yWrmmJEDQMG8nX+Z76JWlDDfylYFw8UslTvVuZCSAw=="/>
+        </item>
+        <item>
+            <title>0.9.0</title>
             <pubDate>Sat, 10 Oct 2026 10:25:52 +0900</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
@@ -19,15 +29,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-3.md</sparkle:releaseNotesLink>
             <enclosure url="https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-3.dmg" length="19982800" type="application/octet-stream" sparkle:edSignature="3H1+VIYWmG2vwCgzBgbiFMaVcYnvr7kUdfH8/1ocCxU16fnjT+Sq6LOIGOTNKWxCUuU5y3Vnau++02qoOOx6DQ=="/>
-        </item>
-        <item>
-            <title>0.9.0</title>
-            <pubDate>Sat, 10 Oct 2026 08:24:46 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-2.md</sparkle:releaseNotesLink>
-            <enclosure url="https://ffiblab.github.io/graintone-releases/Graintone-0.9.0-2.dmg" length="19985271" type="application/octet-stream" sparkle:edSignature="HNoWzf8DFM6Sbbw6qM9TOdQ40g3TvfrjnEbImD5j0WPwSVhqriPTKt4EqKIo5oqtbQAsoeb2B+BZibyHIHsEDg=="/>
         </item>
     </channel>
 </rss>
